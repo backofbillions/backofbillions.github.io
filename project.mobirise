@@ -23,7 +23,7 @@
         "display5Font": "Rubik",
         "display5Size": 1.5,
         "display7Font": "Rubik",
-        "display7Size": 1,
+        "display7Size": "1.2",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
@@ -578,6 +578,12 @@
                   "-webkit-justify-content": "center"
                 }
               }
+            },
+            "H5": {
+              "color": "#232323"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_name": "footer1",
