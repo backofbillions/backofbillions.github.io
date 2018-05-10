@@ -1767,8 +1767,8 @@ body {
 .cid-qRFDzp0Joc {
   padding-top: 45px;
   padding-bottom: 45px;
-  background: #223a46;
-  background: linear-gradient(0deg, #223a46, #232323);
+  background: #073b4c;
+  background: linear-gradient(0deg, #073b4c, #232323);
 }
 .cid-qRFDzp0Joc .video-block {
   margin: auto;
@@ -1778,70 +1778,18 @@ body {
     width: 100% !important;
   }
 }
-.cid-qRFCAqR6px {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #2e2e2e;
+.cid-qRFIhiMalG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #232323, #073b4c);
 }
-@media (max-width: 767px) {
-  .cid-qRFCAqR6px .content {
-    text-align: center;
-  }
-  .cid-qRFCAqR6px .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
+.cid-qRFIhiMalG .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
 }
-@media (max-width: 767px) {
-  .cid-qRFCAqR6px .media-wrap {
-    margin-bottom: 1rem;
-  }
+.cid-qRFIhiMalG .social-list a:focus {
+  text-decoration: none;
 }
-.cid-qRFCAqR6px .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-qRFCAqR6px .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-qRFCAqR6px .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-qRFCAqR6px .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-qRFCAqR6px .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qRFCAqR6px .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-qRFCAqR6px .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qRFCAqR6px .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qRFCAqR6px .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qRFCAqR6px .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
+.cid-qRFIhiMalG H2 {
+  color: #ffffff;
 }
